@@ -39,6 +39,8 @@ button {
   outline: none;
   color: #fff;
   border: none;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 button:active {
